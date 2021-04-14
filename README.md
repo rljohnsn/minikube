@@ -1,3 +1,3 @@
 # minikube
 
-[![asciicast](minikube-setup.gif)](https://asciinema.org/a/OKkaXHp4g00V37Zw8mOa6nu9e?autoplay=1)
+[![asciicast](minikube-setup.gif)](https://asciinema.org/a/7JhlsED9rIJaZaE5wvOxSbpY9?autoplay=1)
